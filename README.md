@@ -1,8 +1,10 @@
+> **Mobile / UTF-8:** imagens com `width: 100%` (sem scroll horizontal). Arquivo gravado em UTF-8 para acentos corretos em qualquer dispositivo.
+
 <div align="center">
 
-![Banner](docs/images/banner.svg)
-
-# Search UNIVESP Project
+<p align="center">
+  <img src="docs/images/banner.svg" alt="Banner" width="100%" style="max-width:100%;height:auto;display:block;" />
+</p># Search UNIVESP Project
 
 ### Projeto integrador UNIVESP com pesquisa, páginas de saúde e contato
 
@@ -29,9 +31,9 @@ Aplicação web do Projeto Integrador III: páginas estáticas/EJS para **pesqui
 
 <div align="center">
 
-![Fluxo](docs/images/flow.svg)
-
-</div>
+<p align="center">
+  <img src="docs/images/flow.svg" alt="Fluxo" width="100%" style="max-width:100%;height:auto;display:block;" />
+</p></div>
 
 ---
 
